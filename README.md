@@ -26,6 +26,8 @@ I'm Md Jakir Hossain, I like creating modern, reactive apps using flutter for An
 #### Profile Visits:
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jakir-marj.visitor-badge&left_color=red&right_color=green) 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakir-marj&show_icons=true&locale=en&layout=compact" alt="jakir-marj" /></p>
+
 <details>
 <summary>
   You wanna know more about me?
