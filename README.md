@@ -41,10 +41,11 @@ I'm Md Jakir Hossain, I like creating modern, reactive apps using flutter for An
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331a8ff.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23ff9a00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/adobe%20after%20effects-%239494F7.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-B7472A?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-e37200.svg?style=for-the-badge&logo=Blender&logoColor=white)
+
 
 
 
