@@ -53,10 +53,8 @@ I'm Md Jakir Hossain, I like creating modern, reactive apps using flutter for An
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jakir-marj.visitor-badge&left_color=red&right_color=green) 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakir-marj&show_icons=true&locale=en&layout=compact" alt="jakir-marj" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakir-marj&show_icons=true&locale=en" alt="jakir-marj" /></p>
+![Md Jakir Hossain's github stats](https://github-readme-stats.vercel.app/api?username=jakir-marj&show_icons=true&locale=en&count_private=true)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakir-marj&" alt="jakir-marj" /></p>
 
-#### Github Stats
 
-![Md Jakir Hossain's github stats](https://github-readme-stats.vercel.app/api?username=jakir-marj&count_private=true&theme=tokyonight&hide=contribs,prs)
 
