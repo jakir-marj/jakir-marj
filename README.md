@@ -28,22 +28,7 @@ I'm Md Jakir Hossain, I like creating modern, reactive apps using flutter for An
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakir-marj&show_icons=true&locale=en&layout=compact" alt="jakir-marj" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakir-marj&show_icons=true&locale=en" alt="jakir-marj" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakir-marj&" alt="jakir-marj" /></p>
 
 
-<details>
-<summary>
-  You wanna know more about me?
-</summary>
 
-<br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers.
-
-
-#### Github Stats
-
-![Md Jakir Hossain's github stats](https://github-readme-stats.vercel.app/api?username=jakir-marj&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-</details>
